@@ -1,0 +1,71 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.main {
+	width: 700px;
+	height: 1500px;
+	border: 3px solid gray;
+	margin: 0 auto;
+}
+.head {
+	width: 700px;
+
+}
+.first {
+	margin-left: 40px;
+}
+p {
+	margin-top: 20px;
+	font-family: sans-serif;
+}
+.block {
+	width: 260px;
+	min-height: 100px;
+	float: left;
+	margin: 40px;
+}
+.baton {
+	margin-top: 40px;
+}
+.i1 {
+	width: 100%;
+}
+button {
+	width: 260px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: #cf5b4e;
+	color: white;
+	font-weight: bold;
+}
+.blocknext {
+	width: 150px;
+	min-height: 100px;
+	float: left;
+	margin: 40px;
+}
+.clear {
+	clear: both;
+}
+.i3 {
+	width: 170px;
+	margin-top: -50px;
+}
+.buttonnext {
+	width: 150px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: #cf5b4e;
+	color: white;
+	margin-top: 20px;
+}
+.last {
+	margin-left: 40px;	
+}
+.buttonlast {
+	margin-top: 50px;
+	margin-left: 40px;
+	width: 90%;
+}
